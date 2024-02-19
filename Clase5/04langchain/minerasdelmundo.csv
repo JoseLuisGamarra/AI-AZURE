@@ -1,0 +1,57 @@
+N,Mina,País,Empresa,AñoOperación,TipoMina,Metal
+1,Escondida,Chile,BHP,1990,Open pit,Cobre
+2,Chuquicamata,Chile,Codelco,1915,Open pit,Cobre
+3,Collahuasi,Chile,Anglo American,1993,Open pit,Cobre
+4,Radom,Polonia,KGHM Polska Mied?,1957,Underground,Cobre
+5,Cerro Verde,Perú,Freeport-McMoRan,1992,Open pit,Cobre
+6,Grasberg,Indonesia,Freeport-McMoRan,1967,Open pit,Cobre
+7,Oyu Tolgoi,Mongolia,Rio Tinto,2013,Underground,Cobre
+8,Kamoa-Kakula,República Democrática del Congo,Ivanhoe Mines,2019,Open pit,Cobre
+9,Tenke Fungurume,República Democrática del Congo,China Molybdenum,1996,Open pit,Cobre
+10,Moanda,Gabón,Glencore,1969,Open pit,Cobre
+11,Los Bronces,Chile,Anglo American,1955,Open pit,Cobre
+12,Toquepala,Perú,Southern Copper,1966,Open pit,Cobre
+13,El Abra,Chile,Freeport-McMoRan,1990,Open pit,Cobre
+14,Las Bambas,Perú,MMG,2016,Open pit,Cobre
+15,Antamina,Perú,BHP,1996,Open pit,Cobre
+16,Cananea,México,Grupo México,1888,Open pit,Cobre
+17,Buenavista del Cobre,México,Grupo México,1970,Open pit,Cobre
+18,Bingham Canyon,Estados Unidos,Rio Tinto,1906,Open pit,Cobre
+19,Morenci,Estados Unidos,Freeport-McMoRan,1920,Open pit,Cobre
+20,Grasberg,Indonesia,Freeport-McMoRan,1967,Open pit,Estaño
+21,Muruntau,Uzbekistán,Navoi Mining and Metallurgical Combinat,1961,Open pit,Estaño
+22,Cerro de Pasco,Perú,Compañía Minera Cerro de Pasco,1977,Underground,Estaño
+23,Olimpiada,Rusia,Polyus Gold,1932,Open pit,Estaño
+24,Carlin Trend,Estados Unidos,Newmont Mining Corporation,1962,Underground,Estaño
+25,Northparkes,Australia,Newcrest Mining,1980,Open pit,Estaño
+26,Goldstrike,Estados Unidos,Barrick Gold,1966,Underground,Estaño
+27,Mponeng,Sudáfrica,AngloGold Ashanti,1986,Underground,Estaño
+28,Lihir,Papúa Nueva Guinea,Newcrest Mining,1995,Open pit,Estaño
+29,Pueblo Viejo,República Dominicana,Barrick Gold,2009,Open pit,Estaño
+30,Yanacocha,Perú,Newmont Mining Corporation,1980,Underground,Estaño
+31,Diavik,Canadá,Rio Tinto,2003,Open pit,Estaño
+32,Sotrami,Rusia,Polyus Gold,1920,Underground,Estaño
+33,Kalgoorlie,Australia,Newmont Mining Corporation,1895,Underground,Estaño
+34,Geita Gold Mine,Tanzania,AngloGold Ashanti,1930,Underground,Estaño
+35,Ok Tedi Mine,Papúa Nueva Guinea,Ok Tedi Mining Limited,1984,Open pit,Estaño
+36,Porgera,Papúa Nueva Guinea,Barrick Gold,1989,Underground,Estaño
+37,Tujuh Bukit,Indonesia,PT Agincourt Resources,1998,Open pit,Estaño
+38,Cerro Matoso,Colombia,Anglo American,1965,Open pit,Oro
+39,Phuoc Son,Vietnam,Vietnam Mining and Exploration Joint Stock Company,1975,Underground,Oro
+40,San Cristóbal,Bolivia,Comibol,1954,Open pit,Oro
+41,Gejiu,China,Yunnan Tin Group,1950,Underground,Oro
+42,Batu Hijau,Indonesia,PT Amman Mineral Indonesia,1998,Open pit,Oro
+43,Tongling,China,Tongling Nonferrous Metals Group,1959,Underground,Oro
+44,San Rafael,Argentina,Vale,1999,Open pit,Oro
+45,Binh Phuoc,Vietnam,Vietnam Mining and Exploration Joint Stock Company,1975,Underground,Oro
+46,Mankayan,Filipinas,Benguet Corporation,1930,Underground,Oro
+47,Ersai,China,China Minmetals Corporation,2000,Open pit,Oro
+48,Xinyi,China,Yunnan Tin Group,1950,Underground,Oro
+49,Xinchang,China,Yunnan Tin Group,1950,Underground,Oro
+50,Jilong,China,Yunnan Tin Group,1950,Underground,Oro
+51,Xinjie,China,Yunnan Tin Group,1950,Underground,Oro
+52,Daye,China,Tongling Nonferrous Metals Group,1959,Underground,Oro
+53,Panzhihua,China,Panzhihua Iron and Steel Company,1965,Underground,Oro
+54,Hunan,China,Hunan Nonferrous Metals Group,1958,Underground,Oro
+55,Yunnan,China,Yunnan Tin Group,1950,Underground,Oro
+56,Jiangxi,China,Jiangxi Nonferrous Metals Group,1958,Underground,Oro

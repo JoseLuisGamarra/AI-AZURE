@@ -1,0 +1,1 @@
+curl -X POST "<your-endpoint>/text/analytics/v3.1/languages?'" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 2fc08980ee7b4fea82a81e45f946fb01" --data-ascii "{'documents':[{'id':1,'text':'hello'}]}"
